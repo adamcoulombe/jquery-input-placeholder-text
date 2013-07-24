@@ -1,0 +1,13 @@
+{
+  "name": "jquery-input-placeholder-text",
+  "version": "0.0.0",
+  "main": "src/jquery-input-placeholder-text.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

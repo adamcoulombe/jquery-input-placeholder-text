@@ -1,0 +1,26 @@
+{
+  "name": "jquery-input-placeholder-text",
+  "title": "jQuery Input Placeholder Text",
+  "description": "Placeholder text in your input fields",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Adam/jquery-input-placeholder-text",
+  "author": {
+    "name": "adamcoulombe",
+    "email": "adamcoulombe187@hotmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Adam/jquery-input-placeholder-text.git"
+  },
+  "bugs": "https://github.com/Adam/jquery-input-placeholder-text/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Adam/jquery-input-placeholder-text/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
